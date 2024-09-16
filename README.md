@@ -1,2 +1,2 @@
 # Complete-HTML-Course
-I Complete Full HTML Course And I Will Share My Practise Notes Here.
+HTML Diaries 📖 is a collection of my daily explorations and notes on HTML. Here, I document my learning journey, and insights.
